@@ -1,2 +1,3 @@
-# TECH Scheduler
-Aplicação Backend para gerenciar eventos de tecnologia
+# TechScheduler
+Aplicação Backend para gerenciar eventos de tecnologia..
+    
