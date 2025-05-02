@@ -1,5 +1,6 @@
 package com.techscheduler.api.repositories;
 
+import com.techscheduler.api.domain.coupon.Coupon;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;
