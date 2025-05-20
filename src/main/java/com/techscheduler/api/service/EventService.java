@@ -19,7 +19,7 @@ public class EventService {
         newEvent.setTitle(data.title());
         newEvent.setDescription(null);
         return newEvent;
-    }
+    }   
 
     private String uploading(MultipartFile multipartFile) {
         return "";
